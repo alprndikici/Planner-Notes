@@ -1,0 +1,6 @@
+{
+  "name": "Planner & Notes",
+  "description": "A clean, minimalist application for taking notes, creating daily, weekly, and long-term plans, setting reminders, and organizing items with tags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
